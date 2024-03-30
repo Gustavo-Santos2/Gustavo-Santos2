@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá! Eu sou o Gustavo Santos
 
-<!--
-**Gustavo-Santos2/Gustavo-Santos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Discente em Ciência de Dados
+- 🌱 Atualmente, estou estudando sobre Python e Banco de Dados
+- 🔗https://www.linkedin.com/in/gustavo-santos-7694a9270
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+![Gustavo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gustavo-Santos2&show_icons=true&theme=dark#gh-dark-mode-only)
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gusta-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gusta-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gusta-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gusta-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  
+
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/_gusta.santos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-santos-7694a9270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
